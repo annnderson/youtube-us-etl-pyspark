@@ -1,5 +1,5 @@
 # 🎬 YouTube US Videos ETL Pipeline with PySpark
-Building a scalable data processing workflow to clean, aggregate and optimize YouTube US video data using PySpark.
+Construção de um fluxo escalável de processamento de dados para limpar, agregar e otimizar dados de vídeos do YouTube dos EUA utilizando PySpark.
 
 ## 🎯 Objetivos
 - Praticar técnicas de ETL (Extract, Transform, Load) com PySpark
